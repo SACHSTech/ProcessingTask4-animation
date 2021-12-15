@@ -10,6 +10,9 @@ In this task, you will learn about:
 * clearing old frames
 
 
+Be sure to check out the `Sketch.java` code in this repository to see the basic arrangement of state variables for your animation.
+
+
 
 ## Step 1 - Lesson
 Acquire the learning objectives by reviewing [this tutorial](https://happycoding.io/tutorials/processing/animation)
